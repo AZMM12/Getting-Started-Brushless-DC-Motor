@@ -1,0 +1,33 @@
+:Author: azmm12
+:Email: {Abdulazizmmutiri@gmail.com}
+:Date: 06/07/2022
+:Revision: version#1
+:License: Public Domain
+
+= Project: {Main_1}
+== Description of project:
+Controlling Brushless DC Motor Using Electronic Speed Controller , the speed is adjusted by a potentiometer connected with arduino uno then the speed value is sent to the Electronic Speed Controller from Arduino
+== Installation Steps:
+1. Use Fritzing Program because it has more acsess than Tinkercad .
+2. Connect Arduino Uno and Brushless DC motor and ESC part and Battery and Potentiometer .
+3. Download Servo Motor Library .
+4. Write Code for Arduino to Control the process .
+5. Upload Arduino code to Fritzing Program .
+6. Simulate the Code .
+
+=== Folder structure
+
+....
+ Main_Mission_1                => Arduino sketch folder
+  ├── Main_1.ino       => main Arduino file
+  ├── Main_Pic.png      => (optional) an image of the required schematics
+  └── ReadMe.adoc         => this file
+....
+
+=== Contributing
+To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents.
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
