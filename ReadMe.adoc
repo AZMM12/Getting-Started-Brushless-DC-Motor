@@ -1,12 +1,13 @@
-:Author: azmm12
-:Email: {Abdulazizmmutiri@gmail.com}
-:Date: 06/07/2022
-:Revision: version#1
-:License: Public Domain
-
 = Project: {Main_1}
+=== Author: azmm12.
+=== Email: {Abdulazizmmutiri@gmail.com} .
+=== Date: 06/07/2022 .
+=== Revision: version#1 .
+=== License: Public Domain .
+
 == Description of project:
-Controlling Brushless DC Motor Using Electronic Speed Controller , the speed is adjusted by a potentiometer connected with arduino uno then the speed value is sent to the Electronic Speed Controller from Arduino
+Controlling Brushless DC Motor Using Electronic Speed Controller , the speed is adjusted by a potentiometer connected with arduino uno then the speed value is sent to the Electronic Speed Controller from Arduino .
+
 == Installation Steps:
 1. Use Fritzing Program because it has more acsess than Tinkercad .
 2. Connect Arduino Uno and Brushless DC motor and ESC part and Battery and Potentiometer .
