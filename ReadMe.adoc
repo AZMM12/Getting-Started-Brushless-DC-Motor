@@ -19,10 +19,11 @@ Controlling Brushless DC Motor Using Electronic Speed Controller , the speed is 
 === Folder structure
 
 ....
- Main_Mission_1                => Arduino sketch folder
+ Main_Mission_1        => Arduino sketch folder
   ├── Main_1.ino       => main Arduino file
-  ├── Main_Pic.png      => (optional) an image of the required schematics
-  └── ReadMe.adoc         => this file
+  ├── Main_Pic.png     => (optional) an image of the required schematics
+  ├── Main_Task_1.fzz  => Fritzing file
+  └── ReadMe.adoc      => this file
 ....
 
 === Contributing
