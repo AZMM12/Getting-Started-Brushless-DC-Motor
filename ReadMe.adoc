@@ -1,4 +1,5 @@
 = Project: {Main_1}
+
 === Author: azmm12.
 === Email: {Abdulazizmmutiri@gmail.com} .
 === Date: 06/07/2022 .
@@ -21,7 +22,7 @@ Controlling Brushless DC Motor Using Electronic Speed Controller , the speed is 
 ....
  Main_Mission_1        => Arduino sketch folder
   ├── Main_1.ino       => main Arduino file
-  ├── Main_Pic.png     => (optional) an image of the required schematics
+  ├── Main_Pic.png     => an image of the required schematics
   ├── Main_Task_1.fzz  => Fritzing file
   └── ReadMe.adoc      => this file
 ....
