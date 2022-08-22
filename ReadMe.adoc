@@ -1,4 +1,4 @@
-= Project: {Main_1}
+= Project: {Getting-Started-Brushless-DC-Motor}
 
 === Author: azmm12.
 === Email: {Abdulazizmmutiri@gmail.com} .
@@ -26,11 +26,3 @@ Controlling Brushless DC Motor Using Electronic Speed Controller , the speed is 
   ├── Main_Task_1.fzz  => Fritzing file
   └── ReadMe.adoc      => this file
 ....
-
-=== Contributing
-To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
-
-=== Help
-This document is written in the _AsciiDoc_ format, a markup language to describe documents.
-If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
-or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
